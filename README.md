@@ -26,3 +26,10 @@ topics: ["タグ1", "タグ2"]
 published: false
 ---
 ```
+
+## 記事一覧
+
+| 記事 | 状態 |
+|---|---|
+| [RDPのドライブ共有はなぜ危険か](articles/rdp-drive-redirection-security.md) | Zenn下書き |
+| [外部キー制約が1個しかない100GB・336テーブルの基幹DBを解読した話](articles/legacy-db-reverse-engineering.md) | Zenn下書き |
